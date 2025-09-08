@@ -254,6 +254,7 @@
         "template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-0": {
           "type": "iconbox",
           "settings": {
+            "icon_font": "icon-star1",
             "heading": "High Quality Products",
             "description": "<p>Top rated quality, satisfy the most demanding customers when using our products.</p>"
           }
@@ -261,6 +262,7 @@
         "template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-1": {
           "type": "iconbox",
           "settings": {
+            "icon_font": "icon-refresh-ccw",
             "heading": "Recyclable Materials",
             "description": "<p>Products are recycled from damaged materials, maximum environmental protection.</p>"
           }
@@ -268,6 +270,7 @@
         "template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-2": {
           "type": "iconbox",
           "settings": {
+            "icon_font": "icon-arrow-left",
             "heading": "Easy Return Policies",
             "description": "<p>Free returns within 10 days, please make sure the items are in undamaged condition.</p>"
           }

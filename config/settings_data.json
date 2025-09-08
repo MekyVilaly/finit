@@ -233,7 +233,7 @@
           "751a5c51-a270-4e9d-8089-8ac0aa4a6668": {
             "type": "announcement",
             "settings": {
-              "text": "<p>✈️  &nbsp; Free US & CA Shipping - Orders Over $75.</p>",
+              "text": "<p>✈️    Free US & CA Shipping - Orders Over $75.</p>",
               "countdown_deadline": ""
             }
           }
@@ -263,14 +263,14 @@
       "top-bar": {
         "type": "top-bar",
         "settings": {
-          "container": "full-width",
-          "show_topbar": true,
+          "container": "container",
+          "show_topbar": false,
           "background_color": "#111111",
           "text_color": "#999999",
           "text_hover_color": "#ffffff",
           "show_mobile": false,
-          "show_phone_number": true,
-          "show_email": true,
+          "show_phone_number": false,
+          "show_email": false,
           "show_social": false,
           "show_country": true,
           "show_language": true,
@@ -497,14 +497,6 @@
               "width": "16%"
             }
           },
-          "76e440bc-ed64-49ce-9dd4-1b5b5b46645d": {
-            "type": "menu",
-            "settings": {
-              "menu": "",
-              "title": "Company",
-              "width": "16%"
-            }
-          },
           "dbc96a1f-7b6c-4dba-9ce1-da9cb5dfc9fc": {
             "type": "menu",
             "settings": {
@@ -525,7 +517,6 @@
         "block_order": [
           "41564fc0-b120-4800-8be9-86cdbe058460",
           "a7db9233-5a29-4fd3-a2fc-d59c68ecfda9",
-          "76e440bc-ed64-49ce-9dd4-1b5b5b46645d",
           "dbc96a1f-7b6c-4dba-9ce1-da9cb5dfc9fc",
           "f5d903a9-cd7c-4c84-91e5-abf1b5533227"
         ],
