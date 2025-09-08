@@ -204,10 +204,10 @@
           "settings": {
             "btn_content": "Shop now",
             "button_type": "primary",
-            "button_link": "",
+            "button_link": "shopify://collections/bracelets",
             "button_target": false,
-            "b_mt": 1,
-            "b_mb": 1
+            "b_mt": 0,
+            "b_mb": 0
           }
         }
       },
@@ -221,11 +221,13 @@
         "container": "full-width",
         "background_color": "",
         "banner_type": "image",
+        "image": "shopify://shop_images/dreamcatcher-pendant-necklace_925x_f3bc5266-2949-47b6-afae-3c5db2b59d1b.jpg",
+        "image_mobile": "shopify://shop_images/dreamcatcher-pendant-necklace_925x_f3bc5266-2949-47b6-afae-3c5db2b59d1b.jpg",
         "video_options": "local",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "link": "",
+        "link": "shopify://collections/bracelets",
         "hover_effect": "none",
-        "bn_design": "text_overlay",
+        "bn_design": "text_column",
         "banner_height": "depend-image",
         "height_dk": 800,
         "height_tb": 600,
