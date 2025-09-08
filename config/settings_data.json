@@ -284,6 +284,17 @@
       "horizontal-menu": {
         "type": "horizontal-menu",
         "blocks": {
+          "single_link_collections": {
+            "type": "single_link",
+            "settings": {
+              "title": "Collections",
+              "url": "/collections",
+              "open_link": false,
+              "label": "",
+              "icon_font": "",
+              "icon_width_image": 50
+            }
+          },
           "single_link_Kb4jxU": {
             "type": "single_link",
             "settings": {
@@ -330,6 +341,7 @@
           }
         },
         "block_order": [
+          "single_link_collections",
           "single_link_Kb4jxU",
           "single_link_aVQnxN",
           "single_link_zTa48P",
