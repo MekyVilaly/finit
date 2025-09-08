@@ -284,166 +284,44 @@
       "horizontal-menu": {
         "type": "horizontal-menu",
         "blocks": {
-          "c5b2b061-67e7-4cbb-8714-2c1ee8348b5b": {
-            "type": "menu_item",
+          "single_link_Kb4jxU": {
+            "type": "single_link",
             "settings": {
-              "title": "Home",
-              "url": "",
-              "open_link": false,
-              "label": "",
-              "icon_font": "",
-              "icon_width_image": 20,
-              "width": "full-width",
-              "custom_width": 1200,
-              "background_repeat": "no-repeat",
-              "background_position": "center",
-              "background_size": "auto"
-            }
-          },
-          "81fceee0-ca53-44a4-89ac-51ed3f3907eb": {
-            "type": "menu_item",
-            "settings": {
-              "title": "Shop",
-              "url": "",
-              "open_link": false,
-              "label": "",
-              "icon_font": "",
-              "icon_width_image": 20,
-              "width": "custom",
-              "custom_width": 1200,
-              "background_repeat": "no-repeat",
-              "background_position": "center",
-              "background_size": "auto"
-            }
-          },
-          "ffec3a6d-dc40-4cb3-8117-a17be820fde9": {
-            "type": "link",
-            "settings": {
-              "title": "",
-              "url": "",
-              "open_link": false,
-              "menu": "",
-              "col": "3"
-            }
-          },
-          "4e569da7-b3ef-4dec-81d3-703cb45b6fec": {
-            "type": "link",
-            "settings": {
-              "title": "",
-              "url": "",
-              "open_link": false,
-              "menu": "",
-              "col": "3"
-            }
-          },
-          "0bd9c491-364c-43fe-b0f1-08aff9ab6378": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "show_count": false,
-              "open_link": false,
-              "col": "3"
-            }
-          },
-          "0e3c97d7-319c-47f8-b5fa-cf20d55ff0c3": {
-            "type": "collection",
-            "settings": {
-              "collection": "",
-              "show_count": false,
-              "open_link": false,
-              "col": "3"
-            }
-          },
-          "c4f1d4e1-02cb-41d5-af80-61dcd17a82e9": {
-            "type": "menu_item",
-            "settings": {
-              "title": "Product",
-              "url": "",
-              "open_link": false,
-              "label": "",
-              "icon_font": "",
-              "icon_width_image": 20,
-              "width": "full-width",
-              "custom_width": 1200,
-              "background_repeat": "no-repeat",
-              "background_position": "right center",
-              "background_size": "auto 100%"
-            }
-          },
-          "76c5199e-dddb-4f58-b371-802da213fda6": {
-            "type": "link",
-            "settings": {
-              "title": "",
-              "url": "",
-              "open_link": false,
-              "menu": "",
-              "col": "2"
-            }
-          },
-          "882a36ca-717e-41e8-878f-4028268a7197": {
-            "type": "link",
-            "settings": {
-              "title": "",
-              "url": "",
-              "open_link": false,
-              "menu": "",
-              "col": "2"
-            }
-          },
-          "10d68d71-2b8e-43b2-b14f-49c7da236e2d": {
-            "type": "link",
-            "settings": {
-              "title": "",
-              "url": "",
-              "open_link": false,
-              "menu": "",
-              "col": "2"
-            }
-          },
-          "20ad44f0-ea33-4491-8fd2-8c87af447bf2": {
-            "type": "link",
-            "settings": {
-              "title": "",
-              "url": "",
-              "open_link": false,
-              "menu": "",
-              "col": "2"
-            }
-          },
-          "4f39245a-f834-4bfd-b0ba-e39b59ef6066": {
-            "type": "banner",
-            "settings": {
-              "title": "",
-              "description": "",
-              "heading_text_align": "text-left",
-              "column_reverse": false,
-              "box_shadow": false,
-              "button_title": "",
-              "banner_link": "",
-              "open_link": false,
-              "overlap_top": false,
-              "space_banner": 0,
-              "col": "4"
-            }
-          },
-          "d165434f-e35f-4638-b915-3c7216d66674": {
-            "type": "dropdown",
-            "settings": {
-              "title": "Blog",
-              "url": "",
-              "menu": "",
+              "title": "Wedding Rings",
+              "url": "shopify://collections/rings",
               "open_link": false,
               "label": "",
               "icon_font": "",
               "icon_width_image": 50
             }
           },
-          "d7c29f4e-5b2d-4d1c-8190-e2ab7ea4596a": {
-            "type": "dropdown",
+          "single_link_aVQnxN": {
+            "type": "single_link",
             "settings": {
-              "title": "Page",
-              "url": "",
-              "menu": "",
+              "title": "Bracelets",
+              "url": "shopify://collections/bracelets",
+              "open_link": false,
+              "label": "",
+              "icon_font": "",
+              "icon_width_image": 50
+            }
+          },
+          "single_link_zTa48P": {
+            "type": "single_link",
+            "settings": {
+              "title": "Necklaces",
+              "url": "shopify://collections/necklaces",
+              "open_link": false,
+              "label": "",
+              "icon_font": "",
+              "icon_width_image": 50
+            }
+          },
+          "single_link_ABR7m8": {
+            "type": "single_link",
+            "settings": {
+              "title": "Earings",
+              "url": "shopify://collections/earings",
               "open_link": false,
               "label": "",
               "icon_font": "",
@@ -452,20 +330,10 @@
           }
         },
         "block_order": [
-          "c5b2b061-67e7-4cbb-8714-2c1ee8348b5b",
-          "81fceee0-ca53-44a4-89ac-51ed3f3907eb",
-          "ffec3a6d-dc40-4cb3-8117-a17be820fde9",
-          "4e569da7-b3ef-4dec-81d3-703cb45b6fec",
-          "0bd9c491-364c-43fe-b0f1-08aff9ab6378",
-          "0e3c97d7-319c-47f8-b5fa-cf20d55ff0c3",
-          "c4f1d4e1-02cb-41d5-af80-61dcd17a82e9",
-          "76c5199e-dddb-4f58-b371-802da213fda6",
-          "882a36ca-717e-41e8-878f-4028268a7197",
-          "10d68d71-2b8e-43b2-b14f-49c7da236e2d",
-          "20ad44f0-ea33-4491-8fd2-8c87af447bf2",
-          "4f39245a-f834-4bfd-b0ba-e39b59ef6066",
-          "d165434f-e35f-4638-b915-3c7216d66674",
-          "d7c29f4e-5b2d-4d1c-8190-e2ab7ea4596a"
+          "single_link_Kb4jxU",
+          "single_link_aVQnxN",
+          "single_link_zTa48P",
+          "single_link_ABR7m8"
         ],
         "settings": {
           "m_animation": "up_to_down",
