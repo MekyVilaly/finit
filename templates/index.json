@@ -1,1 +1,318 @@
-{"sections":{"0c521c75-5d82-4dd6-aecc-f519d8907411":{"type":"slideshow","blocks":{"4d89f9ff-8153-4b4a-a089-ccb19f702450":{"type":"slider_item","settings":{"content_box":"content_in_container_fluid","content_custom_width":true,"content_width":50,"content_background_color":"","content_opacity":100,"horizontal_position":"left_position","vertical_position":"bottom_position","slider_effect":"effect_fadeinleft","text_alignment":"left","text_color":"text-white","subheading":"","title":"Style<br>\nModern","description":"<p>Discover knitwear so soft, you wont want to take it off.<\/p>","image_link":"","button_text":"Explore Now","button_type":"primary"}},"template--16567751082231__0c521c75-5d82-4dd6-aecc-f519d8907411-1666406556d8612fa9-0":{"type":"slider_item","settings":{"content_box":"content_in_container_fluid","content_custom_width":true,"content_width":50,"content_background_color":"","content_opacity":100,"horizontal_position":"left_position","vertical_position":"bottom_position","slider_effect":"effect_fadeindown","text_alignment":"left","text_color":"text-white","subheading":"","title":"Style<br>\nOriginal","description":"<p>Discover knitwear so soft, you wont want to take it off.<\/p>","image_link":"","button_text":"Shop now","button_type":"primary"}}},"block_order":["4d89f9ff-8153-4b4a-a089-ccb19f702450","template--16567751082231__0c521c75-5d82-4dd6-aecc-f519d8907411-1666406556d8612fa9-0"],"settings":{"container":"full-width","slide_height":"full_screen","height_dk":850,"height_tb":650,"height_mb":400,"heading_font_size":"90","heading_font_weight":"400","subheading_font_size":"12","subheading_font_weight":"500","description_font_size":"16","description_font_weight":"400","design":"s-text-overlay-image","show_arrow":true,"show_bullet":true,"show_bullet_mobile":false,"autoplay":true,"autorotate_speed":7,"padding_top":0,"padding_bottom":0,"reset_spacing":false}},"7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb":{"type":"collection-tab","blocks":{"template--16653856833783__7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb-16763482753a8c16e6-0":{"type":"collection","settings":{"title":"","collection":""}},"720c2111-6a3d-4249-89da-9262134077df":{"type":"collection","settings":{"title":"","collection":""}},"template--16653856833783__7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb-16763482753a8c16e6-1":{"type":"collection","settings":{"title":"","collection":""}},"2e1e9ac9-b818-42a5-9630-952fdb7c2630":{"type":"collection","settings":{"title":"","collection":""}}},"block_order":["template--16653856833783__7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb-16763482753a8c16e6-0","720c2111-6a3d-4249-89da-9262134077df","template--16653856833783__7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb-16763482753a8c16e6-1","2e1e9ac9-b818-42a5-9630-952fdb7c2630"],"settings":{"heading":"New Arrivals","description":"","text_alignment":"text-center","container":"container-fluid","bg_color":"","tab_design":"horizontal","tab_type":"grid","limit_products":12,"item_desktop":4,"column_gap":30,"carousel_autoplay":false,"carousel_loop":false,"carousel_arrows":false,"carousel_bullets":false,"show_bullet_mobile":false,"number_of_rows":2,"load_more_button_enable":true,"button_action":"load","button_label":"Load more","button_type":"secondary","padding_top":0,"padding_bottom":0,"reset_spacing":false}},"d3907074-85fa-48ad-88fc-1e3c20429d35":{"type":"banner-with-text","blocks":{"611b5295-eba7-4563-9e30-4cad91c36712":{"type":"subheading","settings":{"sub_title":"MID-AUTUMN SALE","subheading_color":"#555555","subheading_fs":12,"subheading_fw":500,"subheading_tf":"uppercase","subheading_mt":0,"subheading_mb":10}},"fef44808-8fde-469e-b60e-11b42d4a3ba5":{"type":"heading","settings":{"title":"Here’s to You","heading_color":"#111111","heading_fs":40,"heading_fw":400,"heading_tf":"unset","heading_mt":0,"heading_mb":10}},"template--16653856833783__d3907074-85fa-48ad-88fc-1e3c20429d35-16708179708f9697f9-1":{"type":"text","settings":{"txt_content":"<p>How to thank your closet for a year of stellar outfits. Our most loved styles are back in and on sale.<\/p>","txt_color":"","txt_fs":16,"txt_fw":400,"txt_tf":"unset","txt_mt":1,"txt_mb":25}},"template--16653856833783__d3907074-85fa-48ad-88fc-1e3c20429d35-16708179708f9697f9-2":{"type":"buttons","settings":{"btn_content":"Shop now","button_type":"primary","b_mt":1,"b_mb":1}}},"block_order":["611b5295-eba7-4563-9e30-4cad91c36712","fef44808-8fde-469e-b60e-11b42d4a3ba5","template--16653856833783__d3907074-85fa-48ad-88fc-1e3c20429d35-16708179708f9697f9-1","template--16653856833783__d3907074-85fa-48ad-88fc-1e3c20429d35-16708179708f9697f9-2"],"settings":{"container":"full-width","background_color":"","banner_type":"image","video_options":"local","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","link":"","hover_effect":"none","bn_design":"text_overlay","banner_height":"depend-image","height_dk":800,"height_tb":600,"height_mb":360,"content_box":"content_in_container","text_bellow_mobile":false,"img_position":"left","banner_width":"col-md-6","column_gap":50,"text_horizontal_position":"center","text_position":"center","text_align":"text-center","content_width":42,"content_bg_color":"#ffffff","bg_opacity":100,"padding_top":0,"padding_bottom":0,"reset_spacing":false}},"2368aaf9-b549-4368-b7a4-57b31db8a7d2":{"type":"icon-box","blocks":{"template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-0":{"type":"iconbox","settings":{"heading":"High Quality Products","description":"<p>Top rated quality, satisfy the most demanding customers when using our products.<\/p>"}},"template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-1":{"type":"iconbox","settings":{"heading":"Recyclable Materials","description":"<p>Products are recycled from damaged materials, maximum environmental protection.<\/p>"}},"template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-2":{"type":"iconbox","settings":{"heading":"Easy Return Policies","description":"<p>Free returns within 10 days, please make sure the items are in undamaged condition.<\/p>"}}},"block_order":["template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-0","template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-1","template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-2"],"settings":{"heading":"","description":"","text_alignment":"text-center","container":"container-fluid","custom_column":3,"column_gap":30,"background_color":"","icon_width":42,"ib_img_view":"default","img_position":"position-top","content_text_alignment":"text-center","text_color":"default","padding_top":0,"padding_bottom":0,"reset_spacing":false}},"4bab0105-14e5-4ec7-912e-c3c5e1a4391a":{"type":"divider","settings":{"container":"container-fluid","border_height":1,"border_color":"#ebebeb","padding_top":0,"padding_bottom":0,"reset_spacing":false}},"31f8203b-81d8-4377-ab00-c30f22403068":{"type":"blog-posts","settings":{"heading":"The Blog","description":"<p>Provide you with useful knowledge about fashion trend.<\/p>","text_align":"text-center","container":"container-fluid","background_color":"","blog":"","num_post_show":4,"post_item_desktop":3,"column_gap":30,"autoplay":false,"loop":false,"show_arrow":true,"show_bullet":false,"show_bullet_mobile":false,"aspect_ratio":"original","custom_ratio":"21:9","hover_effect":"zoom","post_show_author":true,"post_show_category":true,"post_show_date":true,"post_show_excerpt":true,"post_show_button":false,"padding_top":0,"padding_bottom":0,"reset_spacing":false}}},"order":["0c521c75-5d82-4dd6-aecc-f519d8907411","7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb","d3907074-85fa-48ad-88fc-1e3c20429d35","2368aaf9-b549-4368-b7a4-57b31db8a7d2","4bab0105-14e5-4ec7-912e-c3c5e1a4391a","31f8203b-81d8-4377-ab00-c30f22403068"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "0c521c75-5d82-4dd6-aecc-f519d8907411": {
+      "type": "slideshow",
+      "blocks": {
+        "4d89f9ff-8153-4b4a-a089-ccb19f702450": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify://shop_images/Emerald_Vintage_Ring_15962ebe-8498-4fd1-8920-f907ee922db1.jpg",
+            "image_mobile": "shopify://shop_images/Emerald_Vintage_Ring_15962ebe-8498-4fd1-8920-f907ee922db1.jpg",
+            "content_box": "content_in_container_fluid",
+            "content_custom_width": true,
+            "content_width": 50,
+            "content_background_color": "",
+            "content_opacity": 100,
+            "horizontal_position": "left_position",
+            "vertical_position": "bottom_position",
+            "slider_effect": "effect_fadeinleft",
+            "text_alignment": "left",
+            "text_alignment_on_mobile": "center",
+            "text_color": "text-white",
+            "subheading": "",
+            "title": "Style<br>\nModern",
+            "description": "<p>Discover knitwear so soft, you wont want to take it off.</p>",
+            "image_link": "shopify://products/emerald-vintage-ring",
+            "button_text": "Explore Now",
+            "button_type": "primary"
+          }
+        },
+        "template--16567751082231__0c521c75-5d82-4dd6-aecc-f519d8907411-1666406556d8612fa9-0": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify://shop_images/stylish-summer-necklace_925x_7fd512be-5b50-4082-801e-02a8506b942e.jpg",
+            "image_mobile": "shopify://shop_images/stylish-summer-necklace_925x_7fd512be-5b50-4082-801e-02a8506b942e.jpg",
+            "content_box": "content_in_container_fluid",
+            "content_custom_width": true,
+            "content_width": 50,
+            "content_background_color": "",
+            "content_opacity": 100,
+            "horizontal_position": "left_position",
+            "vertical_position": "bottom_position",
+            "slider_effect": "effect_fadeindown",
+            "text_alignment": "left",
+            "text_alignment_on_mobile": "center",
+            "text_color": "text-dark",
+            "subheading": "",
+            "title": "Style<br>\nOriginal",
+            "description": "<p>Discover knitwear so soft, you wont want to take it off.</p>",
+            "image_link": "shopify://products/stylish-summer-neclace",
+            "button_text": "Shop now",
+            "button_type": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "4d89f9ff-8153-4b4a-a089-ccb19f702450",
+        "template--16567751082231__0c521c75-5d82-4dd6-aecc-f519d8907411-1666406556d8612fa9-0"
+      ],
+      "settings": {
+        "container": "full-width",
+        "slide_height": "full_screen",
+        "height_dk": 850,
+        "height_tb": 650,
+        "height_mb": 400,
+        "heading_font_size": "90",
+        "heading_font_weight": "400",
+        "subheading_font_size": "12",
+        "subheading_font_weight": "500",
+        "description_font_size": "16",
+        "description_font_weight": "400",
+        "design": "s-text-overlay-image",
+        "show_arrow_desktop": false,
+        "show_arrow_mobile": false,
+        "show_bullet_desktop": false,
+        "autoplay": true,
+        "autorotate_speed": 7,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb": {
+      "type": "collection-tab",
+      "blocks": {
+        "template--16653856833783__7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb-16763482753a8c16e6-0": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "rings"
+          }
+        },
+        "720c2111-6a3d-4249-89da-9262134077df": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "necklaces"
+          }
+        },
+        "template--16653856833783__7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb-16763482753a8c16e6-1": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "bracelets"
+          }
+        },
+        "2e1e9ac9-b818-42a5-9630-952fdb7c2630": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "earings"
+          }
+        },
+        "collection_DXtrWd": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "chokers"
+          }
+        }
+      },
+      "block_order": [
+        "template--16653856833783__7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb-16763482753a8c16e6-0",
+        "720c2111-6a3d-4249-89da-9262134077df",
+        "template--16653856833783__7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb-16763482753a8c16e6-1",
+        "2e1e9ac9-b818-42a5-9630-952fdb7c2630",
+        "collection_DXtrWd"
+      ],
+      "settings": {
+        "heading": "New Arrivals",
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container-fluid",
+        "bg_color": "",
+        "tab_design": "horizontal",
+        "tab_type": "grid",
+        "limit_products": 12,
+        "item_desktop": 4,
+        "column_gap": 30,
+        "carousel_autoplay": false,
+        "carousel_loop": false,
+        "carousel_arrows": false,
+        "carousel_bullets": false,
+        "show_bullet_mobile": false,
+        "number_of_rows": 2,
+        "load_more_button_enable": true,
+        "button_action": "load",
+        "button_label": "Load more",
+        "button_type": "secondary",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "d3907074-85fa-48ad-88fc-1e3c20429d35": {
+      "type": "banner-with-text",
+      "blocks": {
+        "611b5295-eba7-4563-9e30-4cad91c36712": {
+          "type": "subheading",
+          "settings": {
+            "sub_title": "MID-AUTUMN SALE",
+            "subheading_color": "#555555",
+            "subheading_fs": 12,
+            "subheading_fw": 500,
+            "subheading_tf": "uppercase",
+            "subheading_mt": 0,
+            "subheading_mb": 10
+          }
+        },
+        "fef44808-8fde-469e-b60e-11b42d4a3ba5": {
+          "type": "heading",
+          "settings": {
+            "title": "Here’s to You",
+            "heading_color": "#111111",
+            "heading_fs": 40,
+            "heading_fw": 400,
+            "heading_tf": "unset",
+            "heading_mt": 0,
+            "heading_mb": 10
+          }
+        },
+        "template--16653856833783__d3907074-85fa-48ad-88fc-1e3c20429d35-16708179708f9697f9-1": {
+          "type": "text",
+          "settings": {
+            "txt_content": "<p>How to thank your closet for a year of stellar outfits. Our most loved styles are back in and on sale.</p>",
+            "txt_color": "",
+            "txt_fs": 16,
+            "txt_fw": 400,
+            "txt_tf": "unset",
+            "txt_mt": 1,
+            "txt_mb": 25
+          }
+        },
+        "template--16653856833783__d3907074-85fa-48ad-88fc-1e3c20429d35-16708179708f9697f9-2": {
+          "type": "buttons",
+          "settings": {
+            "btn_content": "Shop now",
+            "button_type": "primary",
+            "button_link": "shopify://collections/bracelets",
+            "button_target": false,
+            "b_mt": 0,
+            "b_mb": 0
+          }
+        }
+      },
+      "block_order": [
+        "611b5295-eba7-4563-9e30-4cad91c36712",
+        "fef44808-8fde-469e-b60e-11b42d4a3ba5",
+        "template--16653856833783__d3907074-85fa-48ad-88fc-1e3c20429d35-16708179708f9697f9-1",
+        "template--16653856833783__d3907074-85fa-48ad-88fc-1e3c20429d35-16708179708f9697f9-2"
+      ],
+      "settings": {
+        "container": "full-width",
+        "background_color": "",
+        "banner_type": "image",
+        "image": "shopify://shop_images/dreamcatcher-pendant-necklace_925x_f3bc5266-2949-47b6-afae-3c5db2b59d1b.jpg",
+        "image_mobile": "shopify://shop_images/dreamcatcher-pendant-necklace_925x_f3bc5266-2949-47b6-afae-3c5db2b59d1b.jpg",
+        "video_options": "local",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "link": "shopify://collections/bracelets",
+        "hover_effect": "none",
+        "bn_design": "text_column",
+        "banner_height": "depend-image",
+        "height_dk": 800,
+        "height_tb": 600,
+        "height_mb": 360,
+        "content_box": "content_in_container",
+        "text_bellow_mobile": false,
+        "img_position": "left",
+        "banner_width": "col-md-6",
+        "column_gap": 50,
+        "text_horizontal_position": "center",
+        "text_position": "center",
+        "text_align": "text-center",
+        "content_width": 42,
+        "content_bg_color": "#ffffff",
+        "bg_opacity": 100,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "2368aaf9-b549-4368-b7a4-57b31db8a7d2": {
+      "type": "icon-box",
+      "blocks": {
+        "template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-0": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "High Quality Products",
+            "description": "<p>Top rated quality, satisfy the most demanding customers when using our products.</p>"
+          }
+        },
+        "template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-1": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "Recyclable Materials",
+            "description": "<p>Products are recycled from damaged materials, maximum environmental protection.</p>"
+          }
+        },
+        "template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-2": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "Easy Return Policies",
+            "description": "<p>Free returns within 10 days, please make sure the items are in undamaged condition.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-0",
+        "template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-1",
+        "template--16567751082231__2368aaf9-b549-4368-b7a4-57b31db8a7d2-16664061246b7ea546-2"
+      ],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container-fluid",
+        "custom_column": 3,
+        "column_gap": 30,
+        "background_color": "",
+        "icon_width": 42,
+        "ib_img_view": "default",
+        "img_position": "position-top",
+        "content_text_alignment": "text-center",
+        "text_color": "default",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "4bab0105-14e5-4ec7-912e-c3c5e1a4391a": {
+      "type": "divider",
+      "settings": {
+        "container": "container-fluid",
+        "border_height": 1,
+        "border_color": "#ebebeb",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    }
+  },
+  "order": [
+    "0c521c75-5d82-4dd6-aecc-f519d8907411",
+    "7ac1f09b-b6ee-4fd9-8d05-3d7e04d7e6fb",
+    "d3907074-85fa-48ad-88fc-1e3c20429d35",
+    "2368aaf9-b549-4368-b7a4-57b31db8a7d2",
+    "4bab0105-14e5-4ec7-912e-c3c5e1a4391a"
+  ]
+}
