@@ -18,7 +18,22 @@
       href="{{ routes.root_url }}"
       title="{{ shop_name }}"
       {{ block.shopify_attributes }}>
-      {%- if logo_svg != blank -%}
+      {%- if logo_image == blank and logo_svg == blank -%}
+        <!-- Default Finitu logo when no custom logo is set -->
+        <div class="header__normal-logo logo_svg" style="width: {{ logo_width }}px; display: flex !important; background: rgba(255,0,0,0.1);">
+          <div class="none-sticky">
+            {% render 'finit-logo' %}
+          </div>
+          {%- if isTransparent and template.name == 'index' -%}
+            <div class="d-none block-sticky">
+              {% render 'finit-logo' %}
+            </div>
+          {%- endif -%}
+        </div>
+        <div class="header__mobile-logo logo_svg" style="width: {{ logo_width_mb }}px; display: none !important;">
+          {% render 'finit-logo-mobile' %}
+        </div>
+      {%- elsif logo_svg != blank -%}
         <div class="header__normal-logo logo_svg d-none-mb d-flex" style="width: {{ logo_width }}px">
           <div class="none-sticky">
             {{ logo_svg }}

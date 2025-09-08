@@ -1,0 +1,14 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle for the F -->
+  <circle cx="20" cy="20" r="18" fill="none" stroke="#D4AF37" stroke-width="1.5" opacity="0.3"/>
+  
+  <!-- Main F letter with elegant styling -->
+  <path d="M10 10 L10 30 M10 10 L28 10 M10 20 L25 20" stroke="#D4AF37" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Decorative diamond accent -->
+  <path d="M32 15 L35 12 L38 15 L35 18 Z" fill="#D4AF37" opacity="0.8"/>
+  
+  <!-- Finitu text -->
+  <text x="45" y="18" font-family="serif" font-size="16" font-weight="300" fill="#2C2C2C" letter-spacing="1px">Finit</text>
+  <text x="45" y="30" font-family="serif" font-size="8" font-weight="300" fill="#666666" letter-spacing="4px">JEWELRY</text>
+</svg>
