@@ -30,6 +30,8 @@
     "social_youtube_link": "#",
     "social_vimeo_link": "",
     "social_tiktok_link": "#",
+    "general_layout": "full_width",
+    "custom_width_bd": 1200,
     "container-fluil-max-width": 1410,
     "font_source": "1",
     "fnt_body_sp": "futura_n4",
